@@ -1,17 +1,21 @@
 <h1 align="center">Minh Nguyen</h1>
 <h3 align="center">A slowly dying developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhnguyen0712&label=Profile%20views&color=0e75b6&style=flat" alt="minhnguyen0712" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhnguyen0712&label=Profile%20views&color=0e75b6&style=flat" alt="minhnguyen0712" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhnguyen0712" alt="minhnguyen0712" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhnguyen0712" alt="minhnguyen0712" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Flutter](https://github.com/minhnguyen0712/flutter_playground)
+- 🔭 I’m currently working on [Next.js](https://nextjs.org/docs/getting-started)
 
-- 🌱 I’m currently learning **Flutter, Reactjs, Flask, etc...**
+- 🌱 I’m currently learning **Flutter, React.js,Next.js, Flask, etc...**
 
 - 👯 I’m looking to collaborate on **React Native**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Web development**
 
 - 📝 I regularly write articles on [mobile developments](mobile developments)
 
